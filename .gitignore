@@ -1,0 +1,16 @@
+.cxx
+*.iml
+.env
+.gradle
+.idea
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/misc.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+deployment.properties
+docker-compose.yml
+keys.json
